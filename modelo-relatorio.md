@@ -13,19 +13,19 @@ Este relatório apresenta o processo de implementação de ferramentas na empres
 O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
 
 Etapa 1:
--Amazon EC2
--Hospedagem de Servidores Virtuais.
--Instâncias do Amazon EC2 para hospedar os serviços da plataforma web, garantindo escalabilidade e alta disponibilidade. Isso permiti reduzir custos com infraestrutura física e manutenção.
+- Amazon EC2
+- Hospedagem de Servidores Virtuais.
+- Instâncias do Amazon EC2 para hospedar os serviços da plataforma web, garantindo escalabilidade e alta disponibilidade. Isso permiti reduzir custos com infraestrutura física e manutenção.
 
 Etapa 2:
--Amazon RDS.
--Banco de Dados Relacional Gerenciado.
--Amazon RDS para gerenciar o banco de dados da plataforma, permitindo uma administração simplificada, backup automatizado e escalabilidade de armazenamento, com custos operacionais reduzidos.
+- Amazon RDS
+- Banco de Dados Relacional Gerenciado.
+- Amazon RDS para gerenciar o banco de dados da plataforma, permitindo uma administração simplificada, backup automatizado e escalabilidade de armazenamento, com custos operacionais reduzidos.
 
-Etapa 3: 
--Amazon S3
--Armazenamento de Objetos
--Amazon S3 para armazenar dados não estruturados, como imagens de produtos e arquivos de receita. Gerando uma economia de custos devido à política de preços baseada no uso e na durabilidade garantida dos dados.
+Etapa 3:
+- Amazon S3
+- Armazenamento de Objetos
+- Amazon S3 para armazenar dados não estruturados, como imagens de produtos e arquivos de receita. Gerando uma economia de custos devido à política de preços baseada no uso e na durabilidade garantida dos dados.
 
 ## Conclusão
 
