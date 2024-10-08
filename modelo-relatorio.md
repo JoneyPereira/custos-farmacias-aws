@@ -1,8 +1,8 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-Data: 08/10/2024
-Empresa: Abstergo Industries
-Responsável: Joney Sousa Pereira
+- Data: 08/10/2024
+- Empresa: Abstergo Industries
+- Responsável: Joney Sousa Pereira
 
 ## Introdução
 
@@ -33,9 +33,9 @@ A implementação de ferramentas na empresa REDUA tem como esperado redução de
 
 ## Anexos
 
-- [Manual de Instalação do Amazon EC2] <https://aws.amazon.com/pt/ec2/getting-started/>
-- [Documentação do Amazon RDS] <https://docs.aws.amazon.com/pt_br/rds/?id=docs_gateway>
-- [Guia de Armazenamento no Amazon S3] <https://aws.amazon.com/pt/s3/>
+- [Manual de Instalação do Amazon EC2] (<https://aws.amazon.com/pt/ec2/getting-started/>)
+- [Documentação do Amazon RDS] (<https://docs.aws.amazon.com/pt_br/rds/?id=docs_gateway>)
+- [Guia de Armazenamento no Amazon S3] (<https://aws.amazon.com/pt/s3/>)
 
 Assinatura do Responsável pelo Projeto:
 
